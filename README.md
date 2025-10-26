@@ -7,7 +7,7 @@ Currently pursuing Information Science Engineering @ SDMIT
 
 ###
 
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejNpNGZwMWZ6cTEycTQzeGN2Z3g0dzhraDIzejJzNWN5aHhmdnE3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sDxVzsDgLo3rLQzVlc/giphy.gif)"  />
+<img align="right" height="150" src="https://tenor.com/view/alarm-gif-9878940352483067214"  />
 
 ###
 
