@@ -77,10 +77,8 @@ Even though I face challenges with focus, memory, and motivation sometimes, I be
 </p>
 
 ---
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in/api?id=HelloSumanthShetty&icon=9&color=2" target="_blank">
-    <img src="https://visitcount.itsvg.in/api?id=HelloSumanthShetty&icon=9&color=2" alt="Profile Visits"/>
-  </a>
+    
 </p>
-
+<p align="center">
+	<img src="https://komarev.com/ghpvc/?username=HelloSumanthShetty&color=blueviolet&style=flat-square&label=Profile+Views" />
+</p>
