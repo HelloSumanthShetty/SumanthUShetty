@@ -7,7 +7,7 @@ Currently pursuing Information Science Engineering @ SDMIT
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/view/alarm-gif-9878940352483067214"  />
+<div class="tenor-gif-embed" data-postid="9878940352483067214" data-share-method="host" data-aspect-ratio="1.23267" data-width="100%"><a href="https://tenor.com/view/alarm-gif-9878940352483067214">Alarm GIF</a>from <a href="https://tenor.com/search/alarm-gifs">Alarm GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ###
 
