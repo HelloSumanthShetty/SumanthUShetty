@@ -1,12 +1,11 @@
 <h1 align="center">👋 Hey there, I'm Sumanth U Shetty</h1>
-
+###
 <h3 align="center">
 A curious developer-in-progress from Bangalore 🇮🇳 <br>
 Currently pursuing Information Science Engineering @ SDMIT
 </h3>
 
-###
-<img src="https://c.tenor.com/iRkL6OMGhU4AAAAC/tenor.gif" alt="">
+  <img src="https://c.tenor.com/iRkL6OMGhU4AAAAC/tenor.gif" alt="">
 ###
 
 <h2 align="left">💫 About Me</h2>
