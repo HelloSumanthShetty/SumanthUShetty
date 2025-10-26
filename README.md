@@ -7,7 +7,7 @@ Currently pursuing Information Science Engineering @ SDMIT
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejNpNGZwMWZ6cTEycTQzeGN2Z3g0dzhraDIzejJzNWN5aHhmdnE3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sDxVzsDgLo3rLQzVlc/giphy.gif)"  />
 
 ###
 
@@ -84,12 +84,12 @@ Even though I face challenges with focus, memory, and motivation sometimes, I be
 <h2 align="left">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sam721166&theme=dracula&show_icons=true&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sam721166&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+ <img src="https://github-readme-stats.vercel.app/api?username=HelloSumanthShetty&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&hide_border=false&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HelloSumanthShetty&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=sam721166&theme=dracula&hide_border=false" height="150" alt="streak graph" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=HelloSumanthShetty&theme=dark&hide_border=false" height="150" alt="streak graph" />
 </div>
 
 ---
