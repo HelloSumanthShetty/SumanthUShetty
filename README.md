@@ -84,6 +84,3 @@ Even though I face challenges with focus, memory, and motivation sometimes, I be
   </a>
 </p>
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=HelloSumanthShetty&style=flat-square&color=blueviolet" alt="Profile Views" />
-</p>
