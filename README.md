@@ -6,7 +6,7 @@ Currently pursuing Information Science Engineering @ SDMIT
 </h3>
 
 <p align="center">
-  <img src="https://c.tenor.com/iRkL6OMGhU4AAAAC/tenor.gif" alt="Coding GIF" width="350"/>
+  <img src="https://cdn3.emoji.gg/emojis/1261-hackerbongocat.gif" alt="Coding GIF" width="350"/>
 </p>
 
 ---
