@@ -99,14 +99,4 @@ Even though I face challenges with focus, memory, and motivation sometimes, I be
 
 ---
 
-<h2 align="left">🐍 Contribution Snake</h2>
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
----
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=sam721166&icon=9&color=2" alt="Profile Visit Counter"/>
-  </a>
-</p>
+> <img align="right" src="https://komarev.com/ghpvc/?username=HelloSumanthShetty" alt="Profile Views" style="margin-left:10px;" />
