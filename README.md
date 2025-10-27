@@ -5,10 +5,6 @@ A curious developer-in-progress from Bangalore 🇮🇳 <br>
 Currently pursuing Information Science Engineering @ SDMIT
 </h3>
 
-<p align="center">
-  <img src="https://cdn3.emoji.gg/emojis/1261-hackerbongocat.gif" alt="Coding GIF" width="200"/>
-</p>
-
 ---
 
 <h2 align="left">💫 About Me</h2>
